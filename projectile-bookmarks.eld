@@ -1,0 +1,1 @@
+("~/AgencyAPI/" "~/MA-Integration/" "~/.emacs.d/" "~/ma/EstimaAPI/" "~/.emacs.d/elpa/jedi-core-20210503.1315/")
